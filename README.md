@@ -20,16 +20,16 @@ Criar uma página web com estilização do Bootstrap com as funcionalidades CRUD
 ## Participantes:
 
 - Jobson Medeiros --> https://github.com/jobsonmedeiros
-- iarlei souza --> https://github.com/iarleisouza
+- Iarlei Souza --> https://github.com/iarleisouza
 - Emmanuel Martins --> https://github.com/EmmanuelMartins21
 - Bruna Correia --> https://github.com/brunacorreia
 - Mario Igor Barbosa --> https://github.com/migorking
 - Isabela Campos-->https://github.com/IsabelaCampos02
 - Gabriel Ryan --> https://github.com/Bigoode
-- https://github.com/MaxSueel
+- MaxSueel --> https://github.com/MaxSueel
 - Helinton: https://github.com/HelintonAlves/
 - Nikolas Capucci -> https://github.com/Niikapucci
 - Cosmo Menezes: https://github.com/cosmo-menezes
-- Https://github.com/fabiamcunha
-- Fred --> https://github.com/fredsalas87
+- Fabia --> https://github.com/fabiamcunha
+- Fredy Salazar --> https://github.com/fredsalas87
 
