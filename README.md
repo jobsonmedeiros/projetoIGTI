@@ -30,6 +30,6 @@ Criar uma página web com estilização do Bootstrap com as funcionalidades CRUD
 - Helinton: https://github.com/HelintonAlves/
 - Nikolas Capucci -> https://github.com/Niikapucci
 - Cosmo Menezes: https://github.com/cosmo-menezes
-- Https://github.com/fabiamcunha
+- Fabia Cunha: Https://github.com/fabiamcunha
 - Fred --> https://github.com/fredsalas87
 
