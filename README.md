@@ -1,7 +1,7 @@
-# projetoIGTI
+# Projeto IGTI
 Criação de uma página web em colaboração, com as funcionalidades de CRUD.
 
-# Grupo: https://chat.whatsapp.com/EJT9qART5QD31vlb49R0PB
+## Grupo: https://chat.whatsapp.com/EJT9qART5QD31vlb49R0PB
 
 ## Objetivos específicos:
 
