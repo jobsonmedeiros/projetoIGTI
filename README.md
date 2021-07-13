@@ -10,7 +10,7 @@ Criação de uma página web em colaboração, com as funcionalidades de CRUD.
   - [ ] Criar código html 
   - [ ] Decidir o layout (semântica e grid), cores, estilo de SPA, e se será uma página responsiva
   - [ ] Decidir como o bootstrap será adicionado (via cdn ou localmente)
-- [ ] Criar a página contato contendo os participantes, sua formação, cidade, estado, e foto
+- [ ] Criar a página contato contendo os participantes, sua formação, cidade, estado e foto
 - [ ] Criar as funcionalidades de crud via rotas usando o node
 
 ## Pré-requisitos
@@ -44,7 +44,7 @@ Criação de uma página web em colaboração, com as funcionalidades de CRUD.
 - <strong><a href="https://github.com/jobsonmedeiros">Jobson Medeiros</a> | João Pessoa - PB
 - <a href="https://github.com/iarleisouza">Iarlei Souza</a>
 - <a href="https://github.com/EmmanuelMartins21">Emmanuel Martins</a>
-- <a href="https://github.com/brunacorreia">Bruna Moura Correia</a>
+- <a href="https://github.com/brunacorreia">Bruna Moura Correia</a> | Florianópolis - SC
 - <a href="https://github.com/migorking">Mario Igor Barbosa</a>
 - <a href="https://github.com/IsabelaCampos02">Isabela Campos</a>
 - <a href="https://github.com/Bigoode">Gabriel Ryan</a> | Juatuba - MG
@@ -54,10 +54,3 @@ Criação de uma página web em colaboração, com as funcionalidades de CRUD.
 - <a href="https://github.com/cosmo-menezes">Cosmo Menezes</a>
 - <a href="https://github.com/fredsalas87">Fredy Rolando Salazar Sangucho</a>
 - <a href="https://github.com/fabiamcunha">Fabia Cunha</a></strong>
-<<<<<<< HEAD
-=======
-
-
-
-
->>>>>>> 153438c510979276fdede727b7e53ba2a44ae875
