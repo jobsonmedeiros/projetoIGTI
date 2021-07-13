@@ -33,7 +33,7 @@ Criar uma página web com estilização do Bootstrap com as funcionalidades CRUD
 
 ## Participantes :octocat:
 
-- <strong><a href="https://github.com/jobsonmedeiros">Jobson Medeiros</a>
+- <strong><a href="https://github.com/jobsonmedeiros">Jobson Medeiros</a> | João Pessoa - PB
 - <a href="https://github.com/iarleisouza">Iarlei Souza</a>
 - <a href="https://github.com/EmmanuelMartins21">Emmanuel Martins</a>
 - <a href="https://github.com/brunacorreia">Bruna Moura Correia</a>
