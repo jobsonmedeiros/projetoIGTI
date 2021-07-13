@@ -2,8 +2,15 @@
 Criação de uma página web em colaboração, com as funcionalidades de CRUD.
 
 ## Objetivo Geral
+Criar uma página web com estilização do Bootstrap com as funcionalidades CRUD usando o NodeJS, utilizando o git e o github como versionadores de código.
 
-Criar uma página web com estilização do Bootstrap com as funcionalidades CRUD usando o NodeJS.
+## Objetivos Específicos
+- Criar página principal
+  - Criar código html 
+  - Decidir o layout (semântica e grid), cores, estilo de SPA, e se será uma página responsiva
+  - Decidir como o bootstrap será adicionado (via cdn ou localmente)
+- Criar a página contato contendo os participantes, sua formação, cidade, estado, e foto
+- Criar as funcionalidades de crud via rotas usando o node
 
 ## Pré-requisitos
 
