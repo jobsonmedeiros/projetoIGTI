@@ -47,11 +47,5 @@ Criar uma página web com estilização do Bootstrap com as funcionalidades CRUD
 - <a href="https://github.com/fredsalas87">Fredy Rolando Salazar Sangucho</a>
 - <a href="https://github.com/fabiamcunha">Fabia Cunha</a></strong>
 
-### Você deseja contribuir com este projeto? :fist_right::fist_left:
-Faça parte do grupo de discussão de projeto com os nossos colaboradores clicando <a href="https://chat.whatsapp.com/EJT9qART5QD31vlb49R0PB">aqui</a>.
-#### Diretrizes de Contribuição:
-- Apenas discussões relacionadas ao projeto ou ferramentas vinculadas
-- Qualquer dúvida ou sugestão será bem-vinda
-_____
-##### Este projeto colaborativo foi criado por alunos do Bootcamp IGTI que se uniram com o objetivo principal de fixação dos conhecimentos adquiridos.
+
 
