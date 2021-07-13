@@ -21,7 +21,7 @@ Criação de uma página web em colaboração, com as funcionalidades de CRUD.
 
 3. <a href="https://nodejs.org/pt-br/download/">Instalar o node</a>
 
-4. <a href="https://nodejs.org/pt-br/download/">Baixar o Bootstrap</a>
+4. <a href="https://getbootstrap.com.br/docs/4.1/getting-started/download/">Baixar o Bootstrap</a>
 
 ## Comandos do Git
 
