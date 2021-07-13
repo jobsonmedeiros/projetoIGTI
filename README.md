@@ -26,7 +26,7 @@ Criar uma página web com estilização do Bootstrap com as funcionalidades CRUD
 - Mario Igor Barbosa --> https://github.com/migorking
 - Isabela Campos-->https://github.com/IsabelaCampos02
 - Gabriel Ryan --> https://github.com/Bigoode
-- https://github.com/MaxSueel
+- Max Sueel Gomes --> https://github.com/MaxSueel
 - Helinton: https://github.com/HelintonAlves/
 - Nikolas Capucci -> https://github.com/Niikapucci
 - Cosmo Menezes: https://github.com/cosmo-menezes
