@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jobsonmedeiros/projetoIGTI/issues"
   },
-  "homepage": "https://github.com/jobsonmedeiros/projetoIGTI#readme"
+  "homepage": "https://github.com/jobsonmedeiros/projetoIGTI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
