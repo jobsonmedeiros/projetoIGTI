@@ -40,7 +40,7 @@ Criação de uma página web em colaboração, com as funcionalidades de CRUD.
 
 ## Participantes :octocat:
 
-- <strong><a href="https://github.com/jobsonmedeiros">Jobson Medeiros</a> | João Pessoa - PB
+- <strong><a href="https://github.com/jobsonmedeiros">Jobson M. Medeiros</a> | João Pessoa - PB
 - <a href="https://github.com/iarleisouza">Iarlei Souza</a>
 - <a href="https://github.com/EmmanuelMartins21">Emmanuel Martins</a>
 - <a href="https://github.com/brunacorreia">Bruna Moura Correia</a>
@@ -53,6 +53,10 @@ Criação de uma página web em colaboração, com as funcionalidades de CRUD.
 - <a href="https://github.com/cosmo-menezes">Cosmo Menezes</a>
 - <a href="https://github.com/fredsalas87">Fredy Rolando Salazar Sangucho</a>
 - <a href="https://github.com/fabiamcunha">Fabia Cunha</a></strong>
+- <a href="https://github.com/VilsonAlbuquerque">José Vilson Bezerra de Albuquerque</a></strong>
+
+
+
 
 
 
