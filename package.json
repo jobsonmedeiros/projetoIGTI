@@ -1,0 +1,19 @@
+{
+  "name": "projetoigti",
+  "version": "1.0.0",
+  "description": "Criação de uma SPA com crud de usuários usando nodejs e bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobsonmedeiros/projetoIGTI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobsonmedeiros/projetoIGTI/issues"
+  },
+  "homepage": "https://github.com/jobsonmedeiros/projetoIGTI#readme"
+}
