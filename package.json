@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/jobsonmedeiros/projetoIGTI#readme",
   "dependencies": {
-    "bootstrap": "^5.0.2",
-    "express": "^4.17.1"
+    "bootstrap": "^4.6.0",
+    "express": "^4.17.1",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
   }
 }
