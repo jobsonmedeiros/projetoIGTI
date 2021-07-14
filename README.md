@@ -53,7 +53,7 @@ Criação de uma página web em colaboração, com as funcionalidades de CRUD.
 - <a href="https://github.com/Niikapucci">Nikolas Capucci</a>
 - <a href="https://github.com/cosmo-menezes">Cosmo Menezes</a>
 - <a href="https://github.com/fredsalas87">Fredy Rolando Salazar Sangucho</a>
-- <a href="https://github.com/fabiamcunha">Fabia Cunha</a></strong>
+- <a href="https://github.com/fabiamcunha">Fabia Cunha</a>||Teresópolis RJ</strong>
 - <a href="https://github.com/VilsonAlbuquerque">José Vilson Bezerra de Albuquerque</a></strong>
 
 
