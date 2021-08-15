@@ -1,0 +1,51 @@
+/* Gerais */
+body {
+    font-family: 'roboto', sans-serif;
+    background-color: darkgrey;
+}
+
+.row {
+    margin: 0;
+}
+
+/* Zeramos o padding nas laterais */
+.container {
+    padding: 70px 0;
+}
+
+p, li {
+    color: #444;
+    font-size: 14px;
+}
+
+/* Barra de navegação*/
+
+header, navbar {
+    background-color: #353D41;
+}
+
+nav-container {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#logo {
+    width: 150px;
+}
+
+.navbar-brand{
+    padding: 0;
+    color: #fff;
+}
+
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.navbar-links a {
+    color: #fff;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 1rem .8rem;
+}
