@@ -77,3 +77,27 @@ mainSlider .carousel-inner, mainSlider .carousel-item {
     margin-bottom: 100px;
     color: #fff;
 }
+
+.main-btn {
+    background-color: #65DAF9;
+    color: #fff;
+    text-transform: uppercase;
+    width: 200px;
+    height: 60px;
+    padding: 10px 20px;
+    /*arredonda só metade da altura*/
+    border-radius: 30px;
+    border: solid 3px transparent;
+    transition: .5s;
+}
+
+.main-btn:hover {
+    text-decoration: none;
+    color: #fff;
+    background-color: transparent;
+    border-color: #65DAF9;
+}
+
+.carousel-indicators .active {
+    background-color: #65DAF9;
+}
