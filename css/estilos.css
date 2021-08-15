@@ -49,3 +49,31 @@ nav-container {
 .navbar-expand-lg .navbar-nav .nav-link {
     padding: 1rem .8rem;
 }
+
+/* Slider*/
+
+.container-fluid{
+    padding: 0;
+
+}
+
+mainSlider .carousel-inner, mainSlider .carousel-item {
+    /* Cobre apenas 90% da tela com o slider*/
+    height: 90vh;
+}
+
+#mainSlider .carousel-caption {
+    top: 30%;
+} 
+
+#mainSlider .carousel-caption h2 {
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+#mainSlider .carousel-caption p {
+    font-size: 22px;
+    font-weight: 300;
+    margin-bottom: 100px;
+    color: #fff;
+}
