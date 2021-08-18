@@ -15,13 +15,14 @@ Criação de uma página web em colaboração, com as funcionalidades de CRUD.
 
 ## Pré-requisitos
 
-1. <a href="https://git-scm.com/downloads" target="_blank">Instalar o git</a>
-
-2. <a href="https://github.com/" target="_blank">Criar uma conta no gitHub</a>
-
-3. <a href="https://nodejs.org/pt-br/download/">Instalar o node</a>
-
-4. <a href="https://getbootstrap.com.br/docs/4.1/getting-started/download/">Baixar o Bootstrap</a>
+1. [Git](https://git-scm.com/downloads "Git-SCM")
+2. [GitHub](https://github.com/ "GitHub")
+3. [Node](https://nodejs.org/pt-br/download/ "NodeJS")
+4. [Bootstrap versão 4.1.3](https://getbootstrap.com.br/docs/4.1/getting-started/download/ "Bootstrap @4.1.3")
+5. [Jquery](https://jquery.com/ "JQuery")
+6. [Popper.js](https://popper.js.org/ "PopperJS")
+7. [Instalar o Ruby](ruby-lang.org "Ruby")
+8. [Instalar o Sass](https://sass-lang.com/install "Sass")
 
 ## Comandos do Git
 
@@ -41,17 +42,53 @@ Criação de uma página web em colaboração, com as funcionalidades de CRUD.
 
 ## Participantes :octocat:
 
-- <strong><a href="https://github.com/jobsonmedeiros">Jobson M. Medeiros</a> | João Pessoa - PB
-- <a href="https://github.com/iarleisouza">Iarlei Souza</a>
-- <a href="https://github.com/EmmanuelMartins21">Emmanuel Martins</a>
-- <a href="https://github.com/brunacorreia">Bruna Moura Correia</a> | Florianópolis - SC
-- <a href="https://github.com/migorking">Mario Igor Barbosa</a>
-- <a href="https://github.com/IsabelaCampos02">Isabela Campos</a>
-- <a href="https://github.com/Bigoode">Gabriel Ryan</a> | Juatuba - MG
-- <a href="https://github.com/MaxSueel">Max Sueel</a>
-- <a href="https://github.com/HelintonAlves/">Helinton Alves</a>
-- <a href="https://github.com/Niikapucci">Nikolas Capucci</a>
-- <a href="https://github.com/cosmo-menezes">Cosmo Menezes</a>
-- <a href="https://github.com/fredsalas87">Fredy Rolando Salazar Sangucho</a>
-- <a href="https://github.com/fabiamcunha">Fabia Cunha</a> | Teresópolis - RJ</a>
-- <a href="https://github.com/VilsonAlbuquerque">José Vilson Bezerra de Albuquerque</a></strong>
+|N.   |COLABORADOR   |LOCALIDADE   |
+| :------------ | :------------ | :------------ |
+|1   |[Jobson M. Medeiros](https://github.com/jobsonmedeiros/)   |João Pessoa - PB  |
+|2   |[Iarlei Souza](https://github.com/iarleisouza)   |   |
+|3   |[Emmanuel Martins](https://github.com/EmmanuelMartins21)   |   |
+|4   |[Bruna Moura Correia](https://github.com/brunacorreia)   |Florianópolis - SC   |
+|5   |[Mario Igor Barbosa](https://github.com/migorking)   |   |
+|6   |[Isabela Campos](https://github.com/IsabelaCampos02)   |   |
+|7   |[Gabriel Ryan](https://github.com/Bigoode)   |Juatuba - MG   |
+|8   |[Max Sueel](https://github.com/MaxSueel)   |   |
+|9   |[Helinton Alves](https://github.com/HelintonAlves/)   |   |
+|10  |[Nikolas Capucci](https://github.com/Niikapucci)   |   |
+|11  |[Cosmo Menezes](https://github.com/cosmo-menezes)   |   |
+|12  |[Fredy Rolando Salazar Sangucho](https://github.com/fredsalas87)   |   |
+|13  |[Fabia Cunha](https://github.com/fabiamcunha)   |Teresópolis - RJ   |
+|14  |[José Vilson Bezerra de Albuquerque](https://github.com/VilsonAlbuquerque)   |   |
+
+## Configurando o ambiente
+A seguir, os comandos para instalação dos requisitos, via NodeJS
+
+1. cd na pasta do projeto
+2. `npm init`
+3. `npm install bootstrap@4.1.3`
+4. `npm install jquery`
+5. `npm install popperjs`
+
+É necessário instalar o Ruby. Depois de Instalado...
+
+6. `npm install -g sass`
+
+O Sass compila os arquivos css e js do Bootstrap e assim podemos utilizar a lib com nossa própria personalização. 
+
+7. Com o Sass instalado, verifique se está sendo reconhecido.
+   `sass --version`
+   Caso não seja reconhecido, adicione ao PATH do sistema, editando as variáveis do ambiente. 
+
+8. Se o Sass está funcionando, ele mostrará a versão. O comando seguinte determina o caminho da instalação e onde serão guardados os arquivos depois de compilados pelo Sass. Os ':' separam os dois caminhos:
+   `sass --watch node_modules/bootstrap/scss:node_modules/bootstrap/compiler`
+
+9. Verifique se a pasta compiler já existe. Não feche o prompt que roda o serviço sass, ou não funcionará. Para sair use ctrl+c. Com tudo ok, adicione no head de sua página o link pro css do Bootstrap: 
+    `<link rel="stylesheet" href="node_modules/bootstrap/compiler/bootstrap.css" >`
+
+10. Antes de fechar a tag body adicione os scripts:
+    `<script src="node_modules/jquery/dist/jquery.js"></script>`
+    `<script src="node_modules/popper.js/dist/popper.js"></script>`
+    `<script src="node_modules/bootstrap/dist/js/bootstrap.js"></script>`
+
+11. Agora com tudo linkado e o sass funcionando, vc verá as mudanças em tempo real usando as suas próprias classes css e arquivos js compilados do bootstrap. 
+
+Bom trabalho ;D
