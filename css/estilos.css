@@ -101,3 +101,30 @@ mainSlider .carousel-inner, mainSlider .carousel-item {
 .carousel-indicators .active {
     background-color: #65DAF9;
 }
+/* ---------card ---------------*/
+
+.card{
+    
+    box-shadow:2px 5px 30px rgba(19, 18, 18, 0.856) ;
+    transition: 1s all;
+    border: none;
+}
+
+
+.card:hover{
+  
+    transform:translateY(-15px);
+    -ms-transform: translateY(-15px); /* IE 9 */
+    -webkit-transform: translateY(-15px); /* Safari e Chrome */
+    -webkit-transform: translateY(-15px) ;/* Safari e Chrome */
+    -moz-transform: translateY(-15px); /* Firefox */
+    
+}
+.card-header{
+    background-color: rgba(14, 12, 12, 0.774);
+  
+}
+.card i{
+    color:rgba(19, 18, 18, 0.856)
+
+}
