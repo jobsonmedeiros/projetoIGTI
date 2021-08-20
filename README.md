@@ -51,7 +51,7 @@ Criação de uma página web em colaboração, com as funcionalidades de CRUD.
 |5   |[Mario Igor Barbosa](https://github.com/migorking)   |   |
 |6   |[Isabela Campos](https://github.com/IsabelaCampos02)   |   |
 |7   |[Gabriel Ryan](https://github.com/Bigoode)   |Juatuba - MG   |
-|8   |[Max Sueel](https://github.com/MaxSueel)   |   |
+|8   |[Max Sueel](https://github.com/MaxSueel)   |  Igarassu - PE  |
 |9   |[Helinton Alves](https://github.com/HelintonAlves/)   |   |
 |10  |[Nikolas Capucci](https://github.com/Niikapucci)   |   |
 |11  |[Cosmo Menezes](https://github.com/cosmo-menezes)   |   |
