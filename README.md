@@ -45,7 +45,7 @@ Criação de uma página web em colaboração, com as funcionalidades de CRUD.
 |N.   |COLABORADOR   |LOCALIDADE   |
 | :------------ | :------------ | :------------ |
 |1   |[Jobson M. Medeiros](https://github.com/jobsonmedeiros/)   |João Pessoa - PB  |
-|2   |[Iarlei Souza](https://github.com/iarleisouza)   |   |
+|2   |[Iarlei Souza](https://github.com/iarleisouza)             |São Paulo   - SP  |
 |3   |[Emmanuel Martins](https://github.com/EmmanuelMartins21)   |   |
 |4   |[Bruna Moura Correia](https://github.com/brunacorreia)   |Florianópolis - SC   |
 |5   |[Mario Igor Barbosa](https://github.com/migorking)   |   |
