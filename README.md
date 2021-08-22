@@ -8,8 +8,8 @@ Criação de uma página web em colaboração, com as funcionalidades de CRUD.
 ## Objetivos Específicos
 - [ ] Criar página principal
   - [ ] Criar código html 
-  - [ ] Decidir o layout (semântica e grid), cores, estilo de SPA, e se será uma página responsiva
-  - [ ] Decidir como o bootstrap será adicionado (via cdn ou localmente)
+  - [x] Decidir o layout (semântica e grid), cores, estilo de SPA, e se será uma página responsiva
+  - [x] Decidir como o bootstrap será adicionado (via cdn ou localmente)
 - [ ] Criar a página contato contendo os participantes, sua formação, cidade, estado e foto
 - [ ] Criar as funcionalidades de crud via rotas usando o node
 
@@ -43,7 +43,7 @@ Criação de uma página web em colaboração, com as funcionalidades de CRUD.
 ## Participantes :octocat:
 
 |N.   |COLABORADOR   |LOCALIDADE   |
-| :------------ | :------------ | :------------ |
+| :------------: | :------------ | :------------ |
 |1   |[Jobson M. Medeiros](https://github.com/jobsonmedeiros/)   |João Pessoa - PB  |
 |2   |[Iarlei Souza](https://github.com/iarleisouza)             |São Paulo   - SP  |
 |3   |[Emmanuel Martins](https://github.com/EmmanuelMartins21)   |   |

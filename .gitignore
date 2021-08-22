@@ -124,4 +124,7 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+# Cache sass
+.sass-cache
+
 # End of https://www.toptal.com/developers/gitignore/api/node
