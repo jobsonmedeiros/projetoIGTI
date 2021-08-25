@@ -128,3 +128,24 @@ mainSlider .carousel-inner, mainSlider .carousel-item {
     color:rgba(19, 18, 18, 0.856)
 
 }
+
+form {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    margin-top: 30px;
+    background-color: #65DAF9;
+    padding: 25px;
+    border-radius: 2px 30px;
+    box-shadow: 0 0 1em black;
+    transition: 1s;
+}
+
+form:hover {
+    transform: scale(1.1); 
+    box-shadow: 0 5px 15px rgba(0,0,0,0.6);
+
+.form-text {
+    padding: 15px;
+}
