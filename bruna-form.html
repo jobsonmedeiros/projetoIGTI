@@ -104,55 +104,50 @@
   <!-- Formulário -->
 <section id="formulario">
     <div class="col">
-    <h3>Para entrar em contato com a nossa equipe, preencha o formulário a seguir:</h3>
+    <h3 align="center">Para entrar em contato com a nossa equipe, preencha o formulário a seguir:</h3>
   </div>
-    <section id="nome-sobrenome">
-      <form>
-        <div class="form-row">
-          <div class="form-group col-md-3">
-            <div class="col">
-              <label for="inputEmail4">Nome Completo</label><br>
-              <input type="text" class="form-control" placeholder="Nome">
+    <form action="paginas/mensagem.html" method="GET">
+      <div class="form-text">
+        <section id="nome-sobrenome">
+          <div class="form-row">
+            <div class="form-group col-md-3">
+              <div class="col">
+                <label for="inputEmail4">Nome Completo</label><br>
+                <input type="text" class="form-control" placeholder="Nome">
+              </div>
+              <div class="col">
+                <input type="text" class="form-control" placeholder="Sobrenome">
+              </div>
             </div>
-            <div class="col">
-              <input type="text" class="form-control" placeholder="Sobrenome">
+          </div>
+        </section><br>
+    
+        <section id="cadastro-email">
+          <div class="form-row">
+            <div class="form-group col-md-3">
+              <div class="col">
+              <label for="inputEmail4">E-mail</label>
+              <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
             </div>
-          </div>
-        </div>
-      </form>
-    </section><br>
-  
-    <section id="cadastro-email">
-      <form>
-        <div class="form-row">
+            </div>
+        </section><br>
+    
+        <section id="cadastro-telefone">
           <div class="form-group col-md-3">
-            <div class="col">
-            <label for="inputEmail4">E-mail</label>
-            <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+            <label for="cadastro-telefone">Contato</label>
+            <input type="tel" class="form-control" id="cadastro-telefone" placeholder="Apenas números">
           </div>
+        </section><br>
+    
+        <section id="escreva-mensagem">
+          <div class="form-group col-md-3">
+            <label for="formGroupExampleInput">Mensagem</label>
+            <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Escreva aqui a sua mensagem.">
           </div>
-      </form>
-    </section><br>
-  
-    <section id="cadastro-telefone">
-      <form>
-        <div class="form-group col-md-3">
-          <label for="cadastro-telefone">Contato</label>
-          <input type="text" class="form-control" id="cadastro-telefone" placeholder="Apenas números">
-        </div>
-      </form>
-    </section><br>
-  
-    <section id="escreva-mensagem">
-      <form>
-        <div class="form-group col-md-3">
-          <label for="formGroupExampleInput">Mensagem</label>
-          <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Escreva aqui a sua mensagem.">
-        </div>
-      </form>
-    </section><br>
-  
-    <section>
+        </section><br>
+      </div>
+      
+     <section align="center">
         <div class="form-group row">
           <div class="col-sm-10">
             <div class="col">
@@ -160,7 +155,8 @@
           </div>
           </div>
         </div>
-    </section>
+     </section>
+    </form>
   </section>
   <!-- Fim do Formulário -->
 
