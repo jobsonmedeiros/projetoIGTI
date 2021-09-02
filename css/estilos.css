@@ -149,3 +149,27 @@ form:hover {
 .form-text {
     padding: 15px;
 }
+
+/* ---------Iarlei - Footer---------------*/
+
+  footer{
+    background: black;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(12, auto);
+    grid-gap: 10px;
+    
+    padding: 10px;
+  }
+  
+  .grid-container > div {
+   
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+
+  /* ---------Iarlei - FIM - Footer---------------*/
+
