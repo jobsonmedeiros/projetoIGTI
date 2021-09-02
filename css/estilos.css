@@ -79,7 +79,7 @@ mainSlider .carousel-inner, mainSlider .carousel-item {
 }
 
 .main-btn {
-    background-color: #65DAF9;
+    background-color: #957bda;
     color: #fff;
     text-transform: uppercase;
     width: 200px;
@@ -95,11 +95,11 @@ mainSlider .carousel-inner, mainSlider .carousel-item {
     text-decoration: none;
     color: #fff;
     background-color: transparent;
-    border-color: #65DAF9;
+    border-color: #957bda;
 }
 
 .carousel-indicators .active {
-    background-color: #65DAF9;
+    background-color: #957bda;
 }
 /* ---------card ---------------*/
 
@@ -135,7 +135,7 @@ form {
     margin-right: auto;
     max-width: 500px;
     margin-top: 30px;
-    background-color: #65DAF9;
+    background-color: #957bda;
     padding: 25px;
     border-radius: 2px 30px;
     box-shadow: 0 0 1em black;
